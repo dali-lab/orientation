@@ -29,7 +29,6 @@ I'm a '21 & a dev in the lab
 Hallo. I'm a '21!
 I like the color blue too, but my favorite code editor is VSCode >:)
 
-
 ### Benjamin Cape
 Hallo. I'm a '22!
 Does anyone know what DALI stands for?
@@ -37,3 +36,9 @@ Does anyone know what DALI stands for?
 ### Esme Chen
 Hi, I'm Esme! '22
 I like atom as my code editor but looking for another!
+
+### Rohith Mandavilli
+Hullo I am a '22!
+Favorite color: blue
+Favorite band: Kanye West
+Favorite code editor: Sublime
