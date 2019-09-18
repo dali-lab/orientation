@@ -24,3 +24,10 @@ Favorite code editor: Atom
 ### Justin Baltazar
 Hallo. I'm a '21!
 I like the color blue too, but my favorite code editor is VSCode >:)
+
+
+### Rohith Mandavilli
+Hullo I am a '22!
+Favorite color: blue
+Favorite band: Kanye West
+Favorite code editor: Sublime
