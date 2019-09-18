@@ -15,7 +15,7 @@ Directions:
 # Intros
 
 ### Angela Li
-Why hello there :) 
+Why hello there :)
 I'm Angi, I'm a '20, and I'm a developer in the lab.
 Favorite color: blue
 Favorite band: Fleetwood Mac
@@ -32,6 +32,11 @@ I like the color blue too, but my favorite code editor is VSCode >:)
 ### Benjamin Cape
 Hallo. I'm a '22!
 Does anyone know what DALI stands for?
+
+### Amon Ferri
+'23
+I'm a developer (obviously)
+I like to make games
 
 ### Esme Chen
 Hi, I'm Esme! '22
