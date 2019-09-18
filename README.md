@@ -20,3 +20,7 @@ I'm Angi, I'm a '20, and I'm a developer in the lab.
 Favorite color: blue
 Favorite band: Fleetwood Mac
 Favorite code editor: Atom
+
+### Justin Baltazar
+Hallo. I'm a '21!
+I like the color blue too, but my favorite code editor is VSCode >:)
