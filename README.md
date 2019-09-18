@@ -29,6 +29,9 @@ I'm a '21 & a dev in the lab
 Hallo. I'm a '21!
 I like the color blue too, but my favorite code editor is VSCode >:)
 
+### Alejandro Lopez
+Hello! I am Alejandro (Alex) and I am a '23. I am a developer here at DALI.
+
 ### Benjamin Cape
 Hallo. I'm a '22!
 Does anyone know what DALI stands for?
