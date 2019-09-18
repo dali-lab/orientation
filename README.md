@@ -24,3 +24,6 @@ Favorite code editor: Atom
 ### Justin Baltazar
 Hallo. I'm a '21!
 I like the color blue too, but my favorite code editor is VSCode >:)
+
+### Bill Tang
+Hi
