@@ -21,6 +21,10 @@ Favorite color: blue
 Favorite band: Fleetwood Mac
 Favorite code editor: Atom
 
+### Grace Dorgan
+Hi, I'm Grace
+I'm a '21 & a dev in the lab
+
 ### Justin Baltazar
 Hallo. I'm a '21!
 I like the color blue too, but my favorite code editor is VSCode >:)
