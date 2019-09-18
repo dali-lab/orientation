@@ -24,3 +24,8 @@ Favorite code editor: Atom
 ### Justin Baltazar
 Hallo. I'm a '21!
 I like the color blue too, but my favorite code editor is VSCode >:)
+
+
+### Benjamin Cape
+Hallo. I'm a '22!
+Does anyone know what DALI stands for?
