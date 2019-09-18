@@ -27,3 +27,7 @@ I like the color blue too, but my favorite code editor is VSCode >:)
 
 ### Bill Tang
 Hi
+
+### Benjamin Cape
+Hallo. I'm a '22!
+Does anyone know what DALI stands for?
