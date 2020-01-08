@@ -50,3 +50,10 @@ Hullo I am a '22!
 Favorite color: blue
 Favorite band: Kanye West
 Favorite code editor: Sublime
+
+### Sofia Stanescu-Bellu
+Hi everyone 👋
+I'm Sofia, I'm a '20, and I'm the dev lead and a developer in DALI.
+Favorite color: red
+Favorite band: Arctic Monkeys
+Favorite code editor: VSCode
